@@ -21,8 +21,6 @@ module.exports = (app) => {
     }
   )
 
-  uXycRZE4BylD8W29
-
   app.get(
     '/api/current_user',
     (req, res) => {
